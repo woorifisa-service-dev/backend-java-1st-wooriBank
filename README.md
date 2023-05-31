@@ -17,7 +17,7 @@ WOORI FISA에서 Java를 학습하며 간단한 은행 업무 상황을 구현�
 
 ## 프로젝트 UML
 
-<img width="80%" src="https://files.slack.com/files-tmb/T059W9R1V4K-F05A8BLFSAE-6ad23aa48e/package_720.png"/>
+<img width="80%" src="https://github.com/woorifisa-service-dev/java-01-wooribank/blob/main/img/wooriBankUML.png"/>
 
 <br>
 프로젝트의 로직은 다음과 같습니다.
@@ -33,13 +33,18 @@ WOORI FISA에서 Java를 학습하며 간단한 은행 업무 상황을 구현�
 
 ## Stacks
 <br>
+
 ## Environment
 <br>
+
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <br><br>
+
 ## Development
 <br>
+
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+
 <br><br>
 
 
