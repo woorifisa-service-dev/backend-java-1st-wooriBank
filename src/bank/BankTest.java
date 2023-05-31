@@ -64,5 +64,7 @@ public class BankTest {
 			}
 
 		}
+		
+		sc.close();
 	}
 }
