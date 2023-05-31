@@ -3,7 +3,7 @@
 ## 우리은행 대출, 예금 업무 구현 프로그램
 WOORI FISA에서 Java를 학습하며 간단한 은행 업무 상황을 구현해보았습니다.
 
-<img width="80%" src="https://simg.wooribank.com/img/section/bp/img_adcenter_logo05.gif"/>
+<img width="80%" src="https://www.woorifg.com/common/images/ci_type8.png"/>
 
 ## 팀 소개
 
