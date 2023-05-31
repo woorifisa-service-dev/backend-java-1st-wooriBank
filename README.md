@@ -17,7 +17,7 @@ WOORI FISA에서 Java를 학습하며 간단한 은행 업무 상황을 구현�
 
 ## 프로젝트 UML
 
-<img src="https://w1685343414-7nu634055.slack.com/files/U05AL4MHJ00/F05A8BLFSAE/package.png">
+<img src="https://files.slack.com/files-tmb/T059W9R1V4K-F05A8BLFSAE-6ad23aa48e/package_720.png">
 
 <br>
 프로젝트의 로직은 다음과 같습니다.
