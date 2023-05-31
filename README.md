@@ -31,7 +31,7 @@ WOORI FISA에서 Java를 학습하며 간단한 은행 업무 상황을 구현�
 7. 업무가 끝나면 손님의 잔액을 출력해준다. 
 
 
-## Stacks
+# Stacks
 <br>
 
 ## Environment
