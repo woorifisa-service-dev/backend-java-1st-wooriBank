@@ -8,7 +8,9 @@ public class Banker extends Person {
 		this.job = job;
 		// TODO Auto-generated constructor stub
 	}
-
+	
+	
+	
 	public boolean checkwho(Customer cus, Account acc) {
 		return job.checkWho(cus, acc);
 	}
