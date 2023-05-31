@@ -17,7 +17,7 @@ WOORI FISA에서 Java를 학습하며 간단한 은행 업무 상황을 구현�
 
 ## 프로젝트 UML
 
-<img src="https://files.slack.com/files-tmb/T059W9R1V4K-F05A8BLFSAE-6ad23aa48e/package_720.png">
+<img width="80%" src="https://files.slack.com/files-tmb/T059W9R1V4K-F05A8BLFSAE-6ad23aa48e/package_720.png"/>
 
 <br>
 프로젝트의 로직은 다음과 같습니다.
@@ -33,16 +33,15 @@ WOORI FISA에서 Java를 학습하며 간단한 은행 업무 상황을 구현�
 
 ## Stacks
 <br>
-### Environment
+## Environment
 <br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <br><br>
-### Development
+## Development
 <br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <br><br>
-### Comminication
-<br>
+
 
 ## 배운 점
 - 페어 프로그래밍을 통해 static final과 final의 차이점, 추상 클래스에 대한 이해를 할 수 있는 시간이었다.
