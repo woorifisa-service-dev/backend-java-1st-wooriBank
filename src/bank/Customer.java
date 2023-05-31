@@ -1,9 +1,13 @@
 package bank;
 
+// 손님
 public class Customer extends Person {
+	
+	// 들고있는 번호표, 계좌
 	private NumberTicket numberTicket;
 	private Account account;
 
+	// 번호표 뽑기
 	public void setNumberTicket(NumberTicket nt) {
 		this.numberTicket = nt;
 		if (nt instanceof NumberTicketForLoan) {
@@ -25,7 +29,7 @@ public class Customer extends Person {
 	}
 
 	public int borrowMoney(int money) {
-		say(Integer.toString(money) + "원 내놔!!");
+		say(name + " : " + Integer.toString(money) + "원 내놔!!");
 		return money;
 	}
 

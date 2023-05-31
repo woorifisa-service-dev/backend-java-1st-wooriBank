@@ -1,5 +1,6 @@
 package bank;
 
+// 대출 창구
 public class CounterForLoan extends Counter {
 	
 	public static int currentOrder = 0;
@@ -9,7 +10,8 @@ public class CounterForLoan extends Counter {
 		this.job = job;
 		this.banker = banker;
 	}
-
+	
+	// 창구가 차있는지 확인
 	@Override
 	public void isFull() {
 		if (this.isAvailable == true) {

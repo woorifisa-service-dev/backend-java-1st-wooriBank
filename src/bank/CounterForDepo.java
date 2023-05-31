@@ -1,7 +1,9 @@
 package bank;
 
+// 예금 창구
 public class CounterForDepo extends Counter {
 
+	// 현재 번호
 	public static int currentOrder = 0;
 	
 	public CounterForDepo(int num,	String job,Banker banker) {
@@ -9,6 +11,8 @@ public class CounterForDepo extends Counter {
 		this.job = job;
 		this.banker = banker;
 	}
+	
+	// 창구가 차있는지 확인
 	@Override
 	public void isFull() {
 		if (this.isAvailable == true) {

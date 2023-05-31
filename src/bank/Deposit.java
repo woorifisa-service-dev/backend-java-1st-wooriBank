@@ -1,9 +1,13 @@
 package bank;
 
+// 예금 업무
 public class Deposit extends Job {
+	
 	public Deposit(String task) {
 		super(task);
 	}
+	
+	// 신원확인
 	@Override
 	public boolean checkWho(Customer cus, Account acc) {
 		if(cus.getName() == acc.getOwner().getName()){
