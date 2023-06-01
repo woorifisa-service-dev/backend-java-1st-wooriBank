@@ -12,7 +12,9 @@ WOORI FISA에서 Java를 학습하며 간단한 은행 업무 상황을 구현�
 | <img src="https://avatars.githubusercontent.com/u/63109802?v=4" alt="백재원_프로필이미지" width="150" height="150"> | <img src="https://avatars.githubusercontent.com/u/116792686?v=4" alt="정민성_프로필이미지" width="150" height="150" /> | <img src="https://avatars.githubusercontent.com/u/61819350?v=4" alt="김승연_프로필이미지" width="150" height="150"> |
 | 백재원  |  정민성 | 김승연 |
 <br>
+
 ## 프로젝트 소개
+
 은행의 대출, 예금 업무를 Java로 간단히 구현한 프로젝트입니다.<br>
 
 ## 프로젝트 UML
